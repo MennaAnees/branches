@@ -26,3 +26,4 @@ funcPromise()
 .then((res) => console.log('third'))
 .catch((err) => console.log('err///////////////', err))
 .then(() => console.log(')))))))))))))))))'))
+console.log('from master hello');
