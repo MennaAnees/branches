@@ -1,0 +1,19 @@
+{
+  "name": "test-branches",
+  "version": "1.0.0",
+  "description": "",
+  "main": "server.js",
+  "dependencies": {
+    "express": "^4.16.3"
+  },
+  "devDependencies": {
+    "mocha": "^5.2.0"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js",
+    "7amada": "echo 'menna'"
+  },
+  "author": "",
+  "license": "ISC"
+}
